@@ -1,5 +1,5 @@
 [root]
-name = "toylang"
+name = "Grammadon"
 version = "0.1.0"
 dependencies = [
  "itertools 0.7.1 (registry+https://github.com/rust-lang/crates.io-index)",
