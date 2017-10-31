@@ -1,8 +1,8 @@
-# toylang
+# Grammadon
 
 ## About
 
-toylang is an interpreted programming language created for the purpose of learning about grammar parsing,
+Grammadon is an interpreted programming language created for the purpose of learning about grammar parsing,
 abstract syntax trees, and other things related to the implementation of programming languages. It does not
 aim to be actually useful.
 
